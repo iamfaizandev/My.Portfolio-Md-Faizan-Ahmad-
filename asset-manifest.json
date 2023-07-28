@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/css/main.95f17a34.css",
+    "main.js": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/js/main.2cc53ccc.js",
+    "static/media/Nav_Bg.gif": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/Nav_Bg.85a63fe345782d77060a.gif",
+    "static/media/User_2-.png": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/User_2-.e0cf684d7ce219f6015a.png",
+    "static/media/Md-Faizan-Ahmad_CV.pdf": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/Md-Faizan-Ahmad_CV.a7cde5477ac138e1dbf0.pdf",
+    "static/media/User.webp": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/User.fb85e5ab1e8fc7683271.webp",
+    "static/media/portfolio5.webp": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/portfolio5.a999f06a4c8de8a33049.webp",
+    "static/media/portfolio6.webp": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/portfolio6.befe4fe5c6d22178753e.webp",
+    "static/media/portfolio4.webp": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/portfolio4.53cbe83f4df406375fbf.webp",
+    "static/media/portfolio2.webp": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/media/portfolio2.2e18ab3dcc6084942fcb.webp",
+    "index.html": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/index.html",
+    "main.95f17a34.css.map": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/css/main.95f17a34.css.map",
+    "main.2cc53ccc.js.map": "/iamfaizandev/My.Portfolio-Md-Faizan-Ahmad-/static/js/main.2cc53ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f17a34.css",
+    "static/js/main.2cc53ccc.js"
+  ]
+}
