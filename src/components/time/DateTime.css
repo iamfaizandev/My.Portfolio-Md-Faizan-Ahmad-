@@ -1,0 +1,9 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+div p {
+    font-size: 0.4rem;
+    position: sticky;
+    top: 1rem;
+}
